@@ -2,7 +2,7 @@ beautifulsoup4==4.12.2
 bs4==0.0.1
 certifi==2024.7.4
 charset-normalizer==3.2.0
-idna==3.4
+idna==3.7
 instaloader==4.10
 markdown-it-py==3.0.0
 mdurl==0.1.2
