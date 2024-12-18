@@ -19,4 +19,4 @@ six==1.16.0
 soupsieve==2.5
 tweepy==4.14.0
 tzdata==2023.3
-urllib3==2.0.5
+urllib3==2.2.2
